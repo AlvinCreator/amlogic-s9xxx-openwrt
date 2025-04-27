@@ -6,6 +6,9 @@
 # Source code repository: https://github.com/openwrt/openwrt / Branch: main
 #========================================================================================================================
 
+# 拉取 luci-app-nikki 插件
+git clone https://github.com/nikkinikki-org/OpenWrt-nikki.git package/nikki
+
 # Add a feed source
 # sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 
