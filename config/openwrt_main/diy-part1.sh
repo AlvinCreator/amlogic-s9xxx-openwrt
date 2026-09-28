@@ -12,3 +12,5 @@
 # Remove unnecessary packages
 # rm -rf package/utils/{ucode,fbtest}
 
+git clone https://github.com/nikkinikki-org/OpenWrt-nikki.git
+
